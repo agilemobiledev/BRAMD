@@ -1,0 +1,59 @@
+a:hover .highlight_underlay
+ {
+  background-color: #000;
+  border-radius: 5px;
+  bottom: 0;
+  height: auto;
+  left: 0;
+  opacity: 0.2;
+  margin: 10px;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: auto;
+ }
+.contact .item_container
+ {
+  background-color: #B3B399;
+  border-radius: 10px;
+  display: inline-block;
+  height: 155px;
+  margin: 10px 5px;
+  padding: 30px 0;
+  position: relative;
+  text-align: center;
+  width: 215px;
+ }
+.contact .item_container span
+ {
+  clear: both;
+  display: block;
+  line-height: 35px;
+ }
+.contact .item_image
+ {
+  clear: both;
+  margin: 0px auto;
+  height: 145px;
+  width: 152px;
+ }
+.contact
+ {
+  bottom: 0;
+  height: auto;
+  left: 0;
+  right: 0;
+  text-align: center;
+  top: 0;
+  width: auto;   
+ }
+.contact a
+ {
+  display: inline-block;
+  text-decoration: none;
+ }
+.highlight_overlay
+ {
+  position: relative;
+  z-index: 1;
+ }

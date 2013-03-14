@@ -1,0 +1,37 @@
+/* [Boilerplate Instructions]
+ * I would not scope the CSS to the full namespace of the component, but rather to the lowest common
+ * namespace which in this case would be .navigation rather than .milan.personal.navigation.  This
+ * will make your code portable, so that if we move it to another namespace, the stylesheet will not
+ * need any major, if any, changes.  So if we move it to .milan.common.navigation, following this
+ * advice, the below styles will still work.
+ */
+.navigation.navigation_container
+ {
+  background-color: #e0decc;  
+ }
+.navigation.navigation_container .navigation_item
+ {
+  font-size: 20px;
+  height: auto;
+  margin: 5px 0;
+  width: 25%;
+ }
+ 
+.navigation.navigation_container .navigation_item a
+ {
+  float: left;
+  width: 100%;
+ }
+ 
+.navigation.navigation_container .navigation_item a:hover 
+ {
+  background-color: rgb(51, 51, 51);
+  border-radius: 15px;
+  text-align: right;
+  text-decoration: none;
+ }
+ 
+.navigation.navigation_container .navigation_item div
+ {
+  margin: 10px;
+ }

@@ -1,0 +1,10 @@
+{
+ "budget" : "budget",
+ "comments" : "comments",
+ "company" : "company",
+ "duration" : "duration",
+ "email" : "e-mail address",
+ "first" : "first name",
+ "last" : "last name",
+ "submit" : "get quote"
+}

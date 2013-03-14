@@ -1,0 +1,10 @@
+{
+ "budget" : "budget",
+ "comments" : "commentaires",
+ "company" : "entreprise",
+ "duration" : "durée",
+ "email" : "adresse e-mail",
+ "first" : "prénom",
+ "last" : "nom de famille",
+ "submit" : "obtenir un devis"
+}

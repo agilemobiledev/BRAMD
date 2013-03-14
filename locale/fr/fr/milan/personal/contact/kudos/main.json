@@ -1,0 +1,8 @@
+{
+ "comments" : "commentaires",
+ "company" : "entreprise",
+ "email" : "adresse e-mail",
+ "first" : "prénom",
+ "last" : "nom de famille",
+ "submit" : "envoyer le formulaire"
+}

@@ -1,0 +1,53 @@
+.kudos#kudos_form
+ {
+  display: none;
+  float: left;
+  left: 50%;
+  margin-left: -25%;
+  margin-top: 10px;
+  overflow: hidden;
+  position: relative;
+  width: 50%;
+ }
+
+.kudos#kudos_form button
+ {
+  border: 1px none;
+  border-radius: 5px;
+  font-size: 135%;
+  max-width: 200px;
+  padding: 8px; 
+  width: 100%;
+ }
+ 
+.kudos#kudos_form input
+ {
+  border: 2px solid #F5F5DC;
+  border-radius: 5px;
+  line-height: 25px;
+  padding: 8px;
+  width: 50%;
+ }
+
+.kudos#kudos_form label
+ {
+  clear: both;
+  float: left;
+  margin-bottom: 5px;
+  width: 100%;
+ }
+ 
+.kudos#kudos_form label span
+ {
+  display: inline-block;
+  font-size: 135%;
+  text-align: left;
+  text-indent: 25%;
+  text-transform: capitalize;
+  width: 100%;
+ }
+
+.kudos#kudos_form .button_container
+ {
+  margin: 10px 0;
+ }

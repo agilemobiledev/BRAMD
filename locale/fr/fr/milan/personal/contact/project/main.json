@@ -1,0 +1,9 @@
+{
+ "budget" : "budget",
+ "comments" : "commentaires",
+ "company" : "entreprise",
+ "duration" : "durée",
+ "email" : "adresse e-mail",
+ "submit" : "vérifier la disponibilité",
+ "technology" : "technologie"
+}
